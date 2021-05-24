@@ -1,4 +1,4 @@
-### Welcome! There is some stats of my GitHub wink :-)
+### Welcome! There is some stats of my GitHub wink.
 
 <!--
 **Zhurkin-Alex/Zhurkin-Alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
