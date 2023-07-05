@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/alexsey-zhurkin-aa2807195?trk=contact-info">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHYza3Z6emx2ZmdsYXFoeHE1NzZycDdoczh3Z2F6YWRqdHh0eHR1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>  
+    <a href="https://www.linkedin.com/in/rasmiyya-mammadli-092059276/">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHYza3Z6emx2ZmdsYXFoeHE1NzZycDdoczh3Z2F6YWRqdHh0eHR1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+<div id="badges">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
+</div>
+        </a>
   </div>
 
 <div id="header" align="center">
