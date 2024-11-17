@@ -25,11 +25,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-:rocket: My Work
+### :rocket: My Work
 Here are some of my projects:
 
-🎲 Casino Game: Slot Machine and Memory Game
-(Built using Next.js, React, and Styled-components. Includes animations and state management.)
+- 🎲 **Casino Game**: [Slot Machine and Memory Game](https://nextjs-snowy-six-62.vercel.app/)  
+  *(Built using Next.js, React, and Styled-components. Includes animations and state management.)*
+
 
 <!--
 **Zhurkin-Alex/Zhurkin-Alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
