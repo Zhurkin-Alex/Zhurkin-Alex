@@ -25,7 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://styled-components.com/logo.png" title="Styled Components" alt="Styled Components" width="40" height="40"/>&nbsp;
-  <img src="https://www.framer.com/images/metadata/framer.png" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://prettier.io/icon.png" title="Prettier" alt="Prettier" width="40" height="40"/>&nbsp;
 </div>
