@@ -31,7 +31,6 @@
 
 ### :rocket: My Work
 Here are some of my projects:
-
 - 🎲 **Casino Game**: [Slot Machine and Memory Game](https://nextjs-snowy-six-62.vercel.app/)  
   *A modern casino game built with Next.js 14, TypeScript, Styled Components, and Framer Motion.*
   <details>
