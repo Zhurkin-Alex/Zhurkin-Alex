@@ -44,7 +44,6 @@ Here are some of my projects:
     - Code quality maintained with ESLint, Prettier, and Husky
     - Deployed on Vercel
   </details>
-  *
 
 
 <!--
