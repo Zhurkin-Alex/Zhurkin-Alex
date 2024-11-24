@@ -33,7 +33,7 @@
 Here are some of my projects:
 
 - 🎲 **Casino Game**: [Slot Machine and Memory Game](https://nextjs-snowy-six-62.vercel.app/)  
-  *(A modern casino game built with Next.js 14, TypeScript, Styled Components, and Framer Motion.*
+  *A modern casino game built with Next.js 14, TypeScript, Styled Components, and Framer Motion.*
   <details>
     <summary>Project Features</summary>
     
@@ -44,7 +44,7 @@ Here are some of my projects:
     - Code quality maintained with ESLint, Prettier, and Husky
     - Deployed on Vercel
   </details>
-  )*
+  *
 
 
 <!--
