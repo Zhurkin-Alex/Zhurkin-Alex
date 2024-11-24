@@ -46,18 +46,14 @@ Here are some of my projects:
 
 
 
-**Zhurkin-Alex/Zhurkin-Alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :man_technologist: About Me :
+- 🔭 I'm currently working on Next.js and React projects
+- 🌱 I'm currently learning advanced animation techniques with Framer Motion
+- 👯 I'm looking to collaborate on interesting web development projects
+- 🤔 I'm looking for help with advanced TypeScript patterns
+- 💬 Ask me about React, TypeScript, and modern web development
+- 📫 How to reach me: [Your LinkedIn profile or email]
+- ⚡ Fun fact: I love creating interactive games and animations!
 
 
 
