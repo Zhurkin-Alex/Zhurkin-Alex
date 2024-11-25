@@ -51,7 +51,9 @@ Here are some of my projects:
 - 🌱 I'm currently learning backend development,application optimization methods, advanced animation techniques with Framer Motion
 - 👯 I'm looking to collaborate on interesting web development projects
 - 💬 Ask me about React, TypeScript, and modern web development
-- 📫 How to reach me: [[LinkedIn](https://www.linkedin.com/in/alexsey-zhurkin-aa2807195/)]
+- 📫 How to reach me: 
+  -[[LinkedIn](https://www.linkedin.com/in/alexsey-zhurkin-aa2807195/)]
+  - telegram ![image](https://github.com/user-attachments/assets/35eb111a-b12d-4f52-941c-9bd0bea0d750)
 - ⚡ Fun fact: I love creating interactive games and animations!
 
 
