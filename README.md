@@ -48,7 +48,7 @@ Here are some of my projects:
 
 ### :man_technologist: About Me :
 - 🔭 I'm currently working on Next.js and React projects
-- 🌱 I'm currently learning backend development,application optimization methods, advanced animation techniques with Framer Motion
+- 🌱 I'm currently learning backend development,application optimization methods, advanced animation techniques
 - 👯 I'm looking to collaborate on interesting web development projects
 - 💬 Ask me about React, TypeScript, and modern web development
 - 📫 How to reach me: 
