@@ -53,7 +53,7 @@ Here are some of my projects:
 - 💬 Ask me about React, TypeScript, and modern web development
 - 📫 How to reach me: 
   -[[LinkedIn](https://www.linkedin.com/in/alexsey-zhurkin-aa2807195/)]
-  - telegram ![image](https://github.com/user-attachments/assets/35eb111a-b12d-4f52-941c-9bd0bea0d750)
+  - telegram ![image](https://github.com/user-attachments/assets/883e5cf7-807d-47f0-8780-b4b81b8f829e)
 - ⚡ Fun fact: I love creating interactive games and animations!
 
 
